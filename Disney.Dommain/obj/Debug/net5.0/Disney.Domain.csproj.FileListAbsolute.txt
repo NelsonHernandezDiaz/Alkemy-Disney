@@ -1,0 +1,12 @@
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\bin\Debug\net5.0\Disney.Domain.deps.json
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\bin\Debug\net5.0\Disney.Domain.dll
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\bin\Debug\net5.0\ref\Disney.Domain.dll
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\bin\Debug\net5.0\Disney.Domain.pdb
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\Disney.Domain.csproj.AssemblyReference.cache
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\Disney.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\Disney.Domain.AssemblyInfoInputs.cache
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\Disney.Domain.AssemblyInfo.cs
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\Disney.Domain.csproj.CoreCompileInputs.cache
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\Disney.Domain.dll
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\ref\Disney.Domain.dll
+C:\Users\facu\Source\Repos\Disney-Alkemy-Challenge-\Disney.Dommain\obj\Debug\net5.0\Disney.Domain.pdb
