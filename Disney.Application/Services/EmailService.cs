@@ -18,7 +18,7 @@ namespace Disney.Application.Services
         
         public async Task SendMail(EmailInfo email)
         {
-            var apiKey = Iconfiguration.GetSection("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").Value;
+            var apiKey = Iconfiguration.GetSection("XXXXXXXXXXXXXXXXXXXXXXXX").Value;
             var client = new SendGridClient(apiKey);
             var from = new EmailAddress(email.Sender);
             var to = new EmailAddress(email.Sender);
